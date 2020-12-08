@@ -18,4 +18,10 @@ _为防止图片加载失败，列出基本配置如下_
 
 
 **BigSur设备截图**
-![关于本机概览]()
+![概览](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/概览.png)
+![核显硬件加速]()
+![蓝牙]()
+![WiFi]()
+![触摸板]()
+![USB]()
+
