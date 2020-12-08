@@ -7,4 +7,15 @@
    出乎我意料的是，从我自己动手配置到完善结束，只用了3天的时间，这要归功于[黑果铁锤哥的视频教程](https://www.bilibili.com/video/BV1DZ4y137XB)，以及[Github前辈们分享的补丁](https://github.com/daliansky/OC-little)，现在我把自己的配置文件分享出来，算是分享自己成功黑果的喜悦，也算是让7559这台经典机器在黑果历程中再进一步。
 
 **我的电脑配置信息**
-![鲁大师截图]()
+![鲁大师截图](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/电脑配置.jpg)  
+_为防止图片加载失败，列出基本配置如下_  
+1.型号:  Dell Inspiron 7559
+2.cpu:  intel i5-6300hq  Skylake
+3.主板:  100Series
+4.显卡:  hd530
+5.声卡:  ALC256
+6.网卡:  RTL8168/8111/8112
+
+
+**BigSur设备截图**
+![关于本机概览]()
