@@ -10,7 +10,7 @@
    * 不插电池找不到触摸板
    * 亮度不能保存，每次开机回到默认亮度  
    
-**我的电脑配置信息**  
+  **我的电脑配置信息**  
 ![鲁大师截图](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/电脑配置.jpg)  
 _为防止图片加载失败，列出基本配置如下_  
 1.型号:  Dell Inspiron 7559  
@@ -21,7 +21,7 @@ _为防止图片加载失败，列出基本配置如下_
 6.网卡:  RTL8168/8111/8112  
 
 
-**BigSur设备截图**  
+  **BigSur设备截图**  
   * 概览  
   ![概览](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/概览.png)
   * 核显硬件加速  
@@ -33,7 +33,7 @@ _为防止图片加载失败，列出基本配置如下_
   * 触摸板  
   ![触摸板](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/触摸板.png)
   * 电池  
-  ![电池](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/触摸板.png)
+  ![电池](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/电池.png)
   * USB  
   ![USB](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/USB.png)
   * 小太阳  
