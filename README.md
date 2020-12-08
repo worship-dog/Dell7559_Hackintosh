@@ -39,7 +39,7 @@ _为防止图片加载失败，列出基本配置如下_
   ![USB](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/USB.png)
   * 小太阳  
   ![USB](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/小太阳.png) 
-  * 声卡
+  * 声卡  
   ![声卡](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/声卡.png)
 
 
