@@ -9,19 +9,19 @@
 **我的电脑配置信息**
 ![鲁大师截图](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/电脑配置.jpg)  
 _为防止图片加载失败，列出基本配置如下_  
-1.型号:  Dell Inspiron 7559
-2.cpu:  intel i5-6300hq  Skylake
-3.主板:  100Series
-4.显卡:  hd530
-5.声卡:  ALC256
-6.网卡:  RTL8168/8111/8112
+1.型号:  Dell Inspiron 7559  
+2.cpu:  intel i5-6300hq  Skylake  
+3.主板:  100Series  
+4.显卡:  hd530  
+5.声卡:  ALC256  
+6.网卡:  RTL8168/8111/8112  
 
 
 **BigSur设备截图**
-![概览](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/概览.png)
-![核显硬件加速](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/硬件加速.png)
-![蓝牙](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/蓝牙.png)
-![WiFi](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/WiFi.png)
-![触摸板]()
-![USB](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/USB.png)
+![概览](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/概览.png)  
+![核显硬件加速](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/硬件加速.png)  
+![蓝牙](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/蓝牙.png)  
+![WiFi](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/WiFi.png)  
+![触摸板]()  
+![USB](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/USB.png)  
 
