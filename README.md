@@ -18,10 +18,10 @@ _为防止图片加载失败，列出基本配置如下_
 
 
 **BigSur设备截图**  
-* 概览  ![概览](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/概览.png)  
-* 核显硬件加速  ![核显硬件加速](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/硬件加速.png)  
-* 蓝牙  ![蓝牙](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/蓝牙.png)  
-* WiFi  ![WiFi](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/WiFi.png)  
-* 触摸板  ![触摸板]()  
-* USB  ![USB](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/USB.png)  
+* 概览  ![概览](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/概览.png)
+* 核显硬件加速  ![核显硬件加速](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/硬件加速.png)
+* 蓝牙  ![蓝牙](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/蓝牙.png)
+* WiFi  ![WiFi](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/WiFi.png)
+* 触摸板  ![触摸板]()
+* USB  ![USB](https://github.com/worship76/dell7559_Hackintosh_BigSur/blob/main/USB.png)
 
