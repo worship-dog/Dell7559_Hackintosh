@@ -3,7 +3,7 @@
    出乎我意料的是，从我自己动手配置到完善结束，只用了3天的时间，这要归功于[UP主-黑果铁锤哥的视频教程](https://www.bilibili.com/video/BV1DZ4y137XB)，以及[Github前辈们分享的补丁](https://github.com/daliansky/OC-little)，现在我把自己的配置文件分享出来，算是分享自己成功黑果的喜悦，也算是让7559这台经典机器在黑果历程中再进一步。  
    先说一下目前还存在的问题：
    * 必须热启动才能进入系统(_无解_)
-   * 必须断开电池排线才能进入系统(_无解_)
+   * 必须断开电池排线才能进入系统(_无解_。
    * 开机比较慢
    * Wifi 蓝牙相互干扰，要想连接新的蓝牙设备需要先关闭Wifi，不然可能搜索不到设备(_等待驱动优化_)
    * 电池电量显示不正确，一直是百分之一(开机之后可以接上电池排线)(2020/12/21，已解决，感谢大佬[Eaxyx(自语)](https://github.com/Eaxyx)的指导)
@@ -42,9 +42,6 @@ _为防止图片加载失败，列出基本配置如下_
   ![USB](https://github.com/worship76/dell7559-hackintosh-bigsur-opencore/blob/master/images/小太阳.png) 
   * 声卡  
   ![声卡](https://github.com/worship76/dell7559-hackintosh-bigsur-opencore/blob/master/images/声卡.png)
-
-tips:引导文件中存在两个config文件，区别在于其所设置的机型不一致，默认使用的config文件机型较旧，可直接使用HDMI接口 但是没有随航功能。
-另一个config文件机型较新，无法驱动HDMI接口，存在随航功能，具体能否使用不可知，因为我手头上没有支持随航的iPad。。
 
 特别鸣谢[Eaxyx(自语)](https://github.com/Eaxyx)大佬帮助完善驱动，解决电池电量显示问题
 
