@@ -32,7 +32,7 @@
 - SupportAssist System Resolution —————— OFF
 - Firmware TPM  —————— Disabled  
 - Secure boot —————— Disabled
-
+- Load Legacy Option Rom —————— Disabled
 
 # 升级/安装流程
 
