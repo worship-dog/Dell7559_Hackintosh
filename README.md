@@ -27,12 +27,16 @@
 修改bios设置，感谢7559黑果前辈[江南小虫虫](https://segmentfault.com/a/1190000020642944?utm_source=tag-newest)所作博客的指导
 
 - 恢复BIOS默认设置 (开机按F2进入bios，按F9恢复默认设置)
-- VT for direct I/O —————— Disabled
-- SATA Operation —————— AHCI
-- SupportAssist System Resolution —————— OFF
-- Firmware TPM  —————— Disabled  
-- Secure boot —————— Disabled
-- Load Legacy Option Rom —————— Disabled
+- Advanced
+  - VT for direct I/O —————— Disabled
+  - SATA Operation —————— AHCI
+  - SupportAssist System Resolution —————— OFF
+- Security
+  - Firmware TPM  —————— Disabled  
+- Boot
+  - Boot List Option —————— UEFI
+  - Secure boot —————— Disabled
+  - Load Legacy Option Rom —————— Disabled
 
 # 升级/安装流程
 
