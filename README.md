@@ -1,4 +1,4 @@
-# Dell 7559 Monterey
+# [NO LONGER MAINTENANCE]Dell 7559 Monterey
 
 bios设置参考，感谢[江南小虫虫](https://segmentfault.com/a/1190000020642944?utm_source=tag-newest)博客指导
 - 恢复BIOS默认设置 (开机按F2进入bios，按F9恢复默认设置)
